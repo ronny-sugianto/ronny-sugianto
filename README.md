@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="right"><img src="https://komarev.com/ghpvc/?username=ronny-sugianto&label=Profile%20views&color=ff0000&style=flat" alt="ronny-sugianto" /> </p>
+<img src="https://1.bp.blogspot.com/-4B918MLaS9o/XXBFXsZ1uMI/AAAAAAAAL7M/Pk4cPjGsZFwczYiMzUQmUJ7b3p9kyvtZgCLcBGAs/s1600/image3.png" alt="ronny-sugianto" width="100%" height="403" />
 
 <h1 align="center">Hi 👋, I'm Ronny</h1>
 <h3 align="center">A passionate mobile developer from Jakarta, Indonesia</h3>
